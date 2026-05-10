@@ -17,9 +17,9 @@ A comprehensive web-based deepfake detection system built with **EfficientNet-B4
 - **Statistics Dashboard** — Real-time stats, model info, and detection trends
 - **Dark/Light Mode** — Toggle between themes
 - **Responsive Design** — Desktop, tablet, and mobile support
-- **GPU Accelerated** — CUDA-powered inference on NVIDIA GPUs
+- **GPU Accelerated** — CUDA-powered inference on NVIDIA GPU
 
----
+--- 
 
 ## 🏗️ Architecture
 

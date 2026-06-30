@@ -1,7 +1,7 @@
 # 🔬 Deepfake Detection System
 
 > AI-Powered Image & Video Analysis Using Deep Learning
-
+![Screenshot](Screenshot.png)
 A comprehensive web-based deepfake detection system built with **EfficientNet-B4** and **MTCNN** face detection preprocessing. The system detects manipulated facial imagery with **99.36% accuracy** and identifies facial filter types with **98.93% accuracy**.
 
 ---

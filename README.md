@@ -19,7 +19,7 @@ A comprehensive web-based deepfake detection system built with **EfficientNet-B4
 - **Responsive Design** — Desktop, tablet, and mobile support
 - **GPU Accelerated** — CUDA-powered inference on NVIDIA GPUs
 
----
+--- 
 
 ## 🏗️ Architecture
 

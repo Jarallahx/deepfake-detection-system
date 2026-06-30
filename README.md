@@ -183,3 +183,9 @@ Image Upload → MTCNN Face Detection → Crop + Pad (30%)
 ## 📄 License
 
 This project is developed as a graduation project (GP2) for academic purposes.
+
+
+**Jarallah Al-Jarallah**  
+Computer Science Graduate — Majmaah University  
+📧 jarallahx@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jarallah-al-jarallah)
